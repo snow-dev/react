@@ -20,225 +20,65 @@
     <favorites_list name="token-auth" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.51527864">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="CoolersPage.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/CoolersPage.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="11" />
-                  <folding>
-                    <element signature="e#43#69#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="actions.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/actions.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-153">
-                  <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="15" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CoolersList.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/CoolersList.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="364">
-                  <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-                  <folding>
-                    <element signature="e#43#69#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="coolers.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/reducers/coolers.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="33" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/package.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="154">
-                  <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/public/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="392">
-                  <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="17" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/App.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CoolersLogIn.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/CoolersLogIn.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="73" column="52" lean-forward="false" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <element signature="e#43#69#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CoolersForm.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/CoolersForm.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <element signature="e#43#69#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="App.test.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/App.test.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="84">
-                  <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="rootReducer.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/rootReducer.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="84">
-                  <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/webpack.config.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="14">
-                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/App.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="28">
-                  <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.fd6acabc.js.map" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build/static/js/main.fd6acabc.js.map">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-294">
-                  <caret line="0" column="1395" lean-forward="false" selection-start-line="0" selection-start-column="1395" selection-end-line="0" selection-end-column="1395" />
-                  <folding />
-                </state>
-              </provider>
-              <provider editor-type-id="sourcemapFileViewerProvider">
-                <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.fd6acabc.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/build/static/js/main.fd6acabc.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-45289">
-                  <caret line="0" column="1710" lean-forward="false" selection-start-line="0" selection-start-column="1626" selection-end-line="0" selection-end-column="1710" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="registerServiceWorker.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="140">
-                  <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="logo.svg" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/logo.svg">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="322">
-                  <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="19" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CoolerCard.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/CoolerCard.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="App.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="37" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <marker date="1505342331124" expanded="true" signature="529:687" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoolersLogIn.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CoolersLogIn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="73" column="52" lean-forward="false" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#43#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -258,8 +98,6 @@
         <option value="$PROJECT_DIR$/backend/server.js" />
         <option value="$PROJECT_DIR$/backend/package.json" />
         <option value="$PROJECT_DIR$/npm-debug.log" />
-        <option value="$PROJECT_DIR$/src/webpack.config.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/CoolersForm.js" />
         <option value="$PROJECT_DIR$/src/CoolerCard.js" />
         <option value="$PROJECT_DIR$/src/CoolersList.js" />
@@ -270,6 +108,9 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/CoolersPage.js" />
+        <option value="$PROJECT_DIR$/src/webpack.config.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
     </option>
   </component>
@@ -285,9 +126,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
+    <option name="x" value="950" />
     <option name="y" value="46" />
-    <option name="width" value="1934" />
+    <option name="width" value="980" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectView">
@@ -305,8 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -329,26 +168,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="token-auth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="token-auth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,6 +187,11 @@
     <property name="js.eslint.eslintPackage" value="D:\Documents\React\token-auth\node_modules\eslint" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/build/static/js/main.fd6acabc.js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\React\react\token-auth" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="false" name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
@@ -523,11 +355,12 @@
       <workItem from="1504808489400" duration="10406000" />
       <workItem from="1504822011485" duration="12287000" />
       <workItem from="1504886891225" duration="10012000" />
+      <workItem from="1505339911308" duration="4092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70017000" />
+    <option name="totallyTimeSpent" value="74109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -539,17 +372,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="46" width="1934" height="1044" extended-state="0" />
+    <frame x="950" y="46" width="980" height="1044" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18769883" sideWeight="0.7119701" order="0" side_tool="false" content_ui="combo" x="557" y="112" width="629" height="802" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.77360517" sideWeight="0.7119701" order="0" side_tool="false" content_ui="combo" x="557" y="112" width="629" height="802" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11134677" sideWeight="0.28802994" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18066406" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.24973601" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20744681" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21017699" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -593,23 +426,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CoolersForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1504">
-          <caret line="94" column="68" lean-forward="false" selection-start-line="94" selection-start-column="68" selection-end-line="94" selection-end-column="68" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#43#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CoolersPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
           <folding>
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -618,7 +440,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1504987379750" expanded="false" signature="7:446" ph="..." />
+            <marker date="1504987379750" expanded="true" signature="579:688" ph="&lt;BrowserRouter/&gt;" />
+            <marker date="1504987379750" expanded="true" signature="603:667" ph="&lt;Provider/&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -627,8 +453,7 @@
         <state relative-caret-position="208">
           <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -637,7 +462,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="10" />
-          <folding />
+          <folding>
+            <marker date="1504722648162" expanded="false" signature="0:41" ph="/** Created by snow on 06/09/2017. ...*/" />
+            <marker date="1504722648162" expanded="false" signature="50:125" ph="..." />
+            <marker date="1504722648162" expanded="true" signature="158:172" ph="{&quot;coolers&quot;: coolers...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -646,7 +475,7 @@
         <state relative-caret-position="64">
           <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="31" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -655,7 +484,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding />
+          <folding>
+            <marker date="1504988989145" expanded="true" signature="7:234" ph="..." />
+            <marker date="1504988989145" expanded="true" signature="264:1045" ph="{...}" />
+            <marker date="1504988989145" expanded="true" signature="277:1043" ph="{...}" />
+            <marker date="1504988989145" expanded="true" signature="298:1032" ph="&lt;div/&gt;" />
+            <marker date="1504988989145" expanded="true" signature="337:822" ph="&lt;div/&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -664,7 +499,7 @@
         <state relative-caret-position="176">
           <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -674,8 +509,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -685,12 +520,12 @@
         <state relative-caret-position="272">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -701,7 +536,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1504987379750" expanded="false" signature="7:446" ph="..." />
+            <marker date="1504987379750" expanded="true" signature="579:688" ph="&lt;BrowserRouter/&gt;" />
+            <marker date="1504987379750" expanded="true" signature="603:667" ph="&lt;Provider/&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -717,7 +556,7 @@
         <state relative-caret-position="224">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -727,8 +566,7 @@
         <state relative-caret-position="368">
           <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -737,7 +575,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="10" />
-          <folding />
+          <folding>
+            <marker date="1504722648162" expanded="false" signature="0:41" ph="/** Created by snow on 06/09/2017. ...*/" />
+            <marker date="1504722648162" expanded="false" signature="50:125" ph="..." />
+            <marker date="1504722648162" expanded="true" signature="158:172" ph="{&quot;coolers&quot;: coolers...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -746,7 +588,7 @@
         <state relative-caret-position="64">
           <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="31" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,7 +597,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="4" selection-end-column="19" />
-          <folding />
+          <folding>
+            <marker date="1504988989145" expanded="true" signature="7:234" ph="..." />
+            <marker date="1504988989145" expanded="true" signature="264:1045" ph="{...}" />
+            <marker date="1504988989145" expanded="true" signature="277:1043" ph="{...}" />
+            <marker date="1504988989145" expanded="true" signature="298:1032" ph="&lt;div/&gt;" />
+            <marker date="1504988989145" expanded="true" signature="337:822" ph="&lt;div/&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -764,8 +612,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -774,7 +622,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1504662546837" expanded="true" signature="82:371" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="373:523" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="885:1836" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="964:1834" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1164:1436" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1172:1416" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="1480:1828" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1574:1674" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1680:1822" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1870:2982" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1945:2876" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1988:2869" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2095:2860" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2151:2850" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2205:2574" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2221:2488" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="2580:2838" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2596:2759" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="2898:2978" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3024:3847" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3139:3717" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3350:3612" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3490:3602" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3539:3590" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3618:3711" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3736:3843" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3878:4021" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3916:4019" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3973:4013" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -783,8 +661,7 @@
         <state relative-caret-position="256">
           <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -794,7 +671,7 @@
         <state relative-caret-position="192">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -841,11 +718,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoolersForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="285">
           <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -855,23 +732,15 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
+        <state relative-caret-position="0">
           <caret line="0" column="1395" lean-forward="false" selection-start-line="0" selection-start-column="1395" selection-end-line="0" selection-end-column="1395" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/static/js/main.fd6acabc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45289">
+        <state relative-caret-position="0">
           <caret line="0" column="1710" lean-forward="false" selection-start-line="0" selection-start-column="1626" selection-end-line="0" selection-end-column="1710" />
           <folding />
         </state>
@@ -881,47 +750,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1504662546830" expanded="true" signature="65:2669" ph="..." />
+            <marker date="1504662546830" expanded="true" signature="88:2662" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/rootReducer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="90">
           <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
+          <folding>
+            <marker date="1504722648162" expanded="false" signature="0:41" ph="/** Created by snow on 06/09/2017. ...*/" />
+            <marker date="1504722648162" expanded="false" signature="50:125" ph="..." />
+            <marker date="1504722648162" expanded="true" signature="158:172" ph="{&quot;coolers&quot;: coolers...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="180">
           <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="19" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1504987379750" expanded="false" signature="7:446" ph="..." />
+            <marker date="1504987379750" expanded="true" signature="579:688" ph="&lt;BrowserRouter/&gt;" />
+            <marker date="1504987379750" expanded="true" signature="603:667" ph="&lt;Provider/&gt;" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoolersLogIn.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="1005">
           <caret line="73" column="52" lean-forward="false" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -932,80 +794,156 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoolerCard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="330">
           <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1504819750660" expanded="false" signature="0:41" ph="/** Created by snow on 07/09/2017. ...*/" />
+            <marker date="1504819750660" expanded="true" signature="115:430" ph="{...}" />
+            <marker date="1504819750660" expanded="true" signature="137:422" ph="&lt;div/&gt;" />
+            <marker date="1504819750660" expanded="true" signature="176:282" ph="&lt;div/&gt;" />
+            <marker date="1504819750660" expanded="true" signature="296:406" ph="&lt;div/&gt;" />
+            <marker date="1504819750660" expanded="true" signature="455:534" ph="{&quot;cooler&quot;: React.PropTypes.object.isRequired...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="690">
           <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoolersPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="11" />
           <folding>
-            <element signature="e#43#69#0" expanded="true" />
+            <marker date="1504662546837" expanded="true" signature="82:371" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="373:523" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="885:1836" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="964:1834" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1164:1436" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1172:1416" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="1480:1828" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1574:1674" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1680:1822" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1870:2982" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1945:2876" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="1988:2869" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2095:2860" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2151:2850" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2205:2574" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2221:2488" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="2580:2838" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="2596:2759" ph="//..." />
+            <marker date="1504662546837" expanded="true" signature="2898:2978" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3024:3847" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3139:3717" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3350:3612" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3490:3602" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3539:3590" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3618:3711" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3736:3843" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3878:4021" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3916:4019" ph="{...}" />
+            <marker date="1504662546837" expanded="true" signature="3973:4013" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="30">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/coolers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="33" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1504988989145" expanded="true" signature="7:234" ph="..." />
+            <marker date="1504988989145" expanded="true" signature="264:1045" ph="{...}" />
+            <marker date="1504988989145" expanded="true" signature="277:1043" ph="{...}" />
+            <marker date="1504988989145" expanded="true" signature="298:1032" ph="&lt;div/&gt;" />
+            <marker date="1504988989145" expanded="true" signature="337:822" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoolersList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="390">
           <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
           <folding>
-            <element signature="e#43#69#0" expanded="true" />
+            <element signature="e#43#69#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions.js">
+    <entry file="file://$PROJECT_DIR$/src/reducers/coolers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <marker date="1505342331124" expanded="true" signature="529:687" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoolersPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="e#43#69#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="37" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
