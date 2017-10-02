@@ -38,13 +38,12 @@ export  function addCooler(cooler) {
 }
 
 export function getToken(response) {
+    console.debug("Response: " + response );
     return {
         type: GET_TOKEN,
         response
     }
 }
-
-
 
 export function saveCooler(data) {
     return dispatch => {
@@ -68,9 +67,6 @@ export function fetchCoolers() {
     }
 
 export function requestToken(data) {
-
-
-
     let grant_type = 'password';
     let composedReq = "grant_type=" + grant_type + "&username=" + data.username + "&password=" + data.password + "&scope=openid+profile+company+roles+imbera_link_web_api";
 
@@ -85,9 +81,8 @@ export function requestToken(data) {
 
     return dispatch => {
         fetch('http://192.169.244.32:8050/webapi/identity/connect/token', config)
-        .then(response => {
-            console.log("Response Token: " + JSON.stringify(response));
-        });
+        .then(response => response.json())
+        .then(data => dispatch(getToken(data)));
     }
 
 }
